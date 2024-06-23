@@ -17,5 +17,4 @@
 
 
 ### Challenge 04: Insert-Middle-Value
-[Insert-Middle-Value.](https://github.com/Nory9/challenges-and-data-structures/blob/Remove-Middle-Value/challenges-and-data-structures/Remove-Middle-Value/Screenshot%20(21).png?raw=true)
-
+[Insert-Middle-Value.](https://github.com/Nory9/Remove-Middle-Va
