@@ -1,11 +1,38 @@
-﻿namespace challenges_and_data_structures
+﻿using System.Xml.Linq;
+
+namespace ContactManager
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World! its nory test ");
+            int[] arr = { 1, 2, 3, 4, 5, 6 };
+            int j = 19;
+            int[] aa = middleValue(arr, j);
+            for (int i = 0; i < aa.Length; i++)
+            {
+                Console.WriteLine(aa[i]);
+            }
+            // Console.WriteLine ("Try programiz.pro");
+        }
+
+        public static int[] middleValue(int[] arr, int val)
+        {
+            int n = arr.Length + 1, ind = (arr.Length / 2) ;
+            int[] newArr = new int[n];
+            for (int i = 0,j =0; i < n; i++,j++){
+                if (i == ind)
+                {
+                    newArr[i] = val;
+                    j--;
+                }
+                else {
+                    newArr[i]= arr[j];
+                }
+            }
+            return newArr;
+
         }
     }
 }

@@ -10,3 +10,4 @@
 
 ### Challenge 02: Maximum Value
 [Maximum Value Whiteboard](https://github.com/Nory9/challenges-and-data-structures/blob/Maximum-Value/challenges-and-data-structures/Maximum-Value/Screenshot%20(15).png?raw=true)
+
