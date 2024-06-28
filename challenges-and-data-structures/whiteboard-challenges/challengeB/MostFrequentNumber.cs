@@ -9,13 +9,13 @@ namespace challenges_and_data_structures.challengeB
     internal class MostFrequentNumber
     {
        
-            static void Main(string[] args)
-            {
-                int[] arr = { 1, 1, 2, 2, 3, 3, 3, 1, 1, 5, 5, 6, 7, 8, 2, 1, 1, 76, 76, 76, 76, 76, 76, 76, 7, 6, 76, 76, 76 };
-                int maxii = freq(arr);
-                Console.WriteLine(maxii);
+            //static void Main(string[] args)
+            //{
+            //    int[] arr = { 1, 1, 2, 2, 3, 3, 3, 1, 1, 5, 5, 6, 7, 8, 2, 1, 1, 76, 76, 76, 76, 76, 76, 76, 7, 6, 76, 76, 76 };
+            //    int maxii = freq(arr);
+            //    Console.WriteLine(maxii);
 
-            }
+            //}
 
             private static int freq(int[] arr)
             {
