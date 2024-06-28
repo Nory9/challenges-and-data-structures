@@ -18,7 +18,6 @@ namespace ContactManager
         {
             int mm = 0;
             List<int> list = new List<int>();
-           // int[] newArr = new int[arr.Length/2];
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] > mm)
@@ -31,10 +30,8 @@ namespace ContactManager
                 freq[arr[i]]++;
             }
             for (int i = 0; i < freq.Length; i++) {
-              //  Console.WriteLine((freq[i]));
                 if (freq[i]>1)
                   list.Add(i);
-                //    new/Arr[i] = i;
             }
             
             return list;
