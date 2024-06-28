@@ -21,4 +21,4 @@
 
 
 ### Challenge 05: Find Duplicates in Array (README.md file)
-[Find Duplicates in Array] (https://github.com/Nory9/challenges-and-data-structures/blob/Find-Duplicates/challenges-and-data-structures/Find-Duplicates/README.md)
+[Find Duplicates in Array](https://github.com/Nory9/challenges-and-data-structures/blob/Find-Duplicates/challenges-and-data-structures/Find-Duplicates/README.md)
