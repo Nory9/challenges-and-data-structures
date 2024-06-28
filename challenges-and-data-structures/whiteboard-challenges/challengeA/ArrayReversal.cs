@@ -8,18 +8,18 @@ namespace challenges_and_data_structures.challengeA
 {
     internal class ArrayReversal
     {
-        static void Main(string[] args)
-        {
-            int[] arr = { 87, 2, 3, 4, 5 };
-            int[] a1 = { 2, 8, 15, 23, 42 };
-            ArrayReversa(arr);
-            int[] aaa = ArrayReversa(a1);
-            for (int i = 0; i < aaa.Length; i++)
-            {
-                Console.Write(aaa[i] + " ");
+        //static void Main(string[] args)
+        //{
+        //    int[] arr = { 87, 2, 3, 4, 5 };
+        //    int[] a1 = { 2, 8, 15, 23, 42 };
+        //    ArrayReversa(arr);
+        //    int[] aaa = ArrayReversa(a1);
+        //    for (int i = 0; i < aaa.Length; i++)
+        //    {
+        //        Console.Write(aaa[i] + " ");
 
-            }
-        }
+        //    }
+        //}
 
         private static int[] ArrayReversa(int[] arr)
         {
