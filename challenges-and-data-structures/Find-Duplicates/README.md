@@ -9,4 +9,4 @@ this  function called FindDuplicates that accepts an array as its parameter. Wit
 
 ### Screenshot of the output
 
-![output]()
+![output](https://github.com/Nory9/challenges-and-data-structures/blob/Find-Duplicates/challenges-and-data-structures/Find-Duplicates/Screenshot%20(37).png?raw=true)
