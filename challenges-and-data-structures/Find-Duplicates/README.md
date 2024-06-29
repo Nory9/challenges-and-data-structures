@@ -16,4 +16,4 @@ this  function called FindDuplicates that accepts an array as its parameter. Wit
 ### WhiteBoard solution
 
 
-![whiteBoard]()
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Find-Duplicates/challenges-and-data-structures/Find-Duplicates/Screenshot%20(39).png?raw=true)
