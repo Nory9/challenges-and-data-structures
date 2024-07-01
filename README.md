@@ -21,3 +21,7 @@
 
 ### Challenge 05: Find Duplicates in Array (README.md file)
 [Find Duplicates in Array](https://github.com/Nory9/challenges-and-data-structures/blob/Find-Duplicates/challenges-and-data-structures/Find-Duplicates/README.md)
+
+
+###  Challenge 06-A: Find Common Elements in Two Arrays
+[Common Element](https://github.com/Nory9/challenges-and-data-structures/tree/Common-Elements/challenges-and-data-structures/Challenges/Common-Elements)

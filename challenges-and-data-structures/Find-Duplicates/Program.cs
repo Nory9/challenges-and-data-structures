@@ -5,14 +5,14 @@ namespace ContactManager
     public class Program
     {
 
-        public static void Main(string[] args)
-        {
-            int[] arr = {16, 8, 31, 17, 15, 23, 17, 8};
-            List<int> arr1=Find_Duplicates(arr);
-            for (int i = 0; i < arr1.Count; i++) { 
-            Console.WriteLine(arr1[i]);
-            }
-        }
+        //public static void Main(string[] args)
+        //{
+        //    int[] arr = {16, 8, 31, 17, 15, 23, 17, 8};
+        //    List<int> arr1=Find_Duplicates(arr);
+        //    for (int i = 0; i < arr1.Count; i++) { 
+        //    Console.WriteLine(arr1[i]);
+        //    }
+        //}
 
         public static List<int> Find_Duplicates(int[] arr)
         {
