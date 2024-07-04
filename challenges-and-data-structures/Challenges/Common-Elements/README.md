@@ -15,8 +15,7 @@ A function called CommonElements that accepts two arrays of integers as its para
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Common-Elements/challenges-and-data-structures/Challenges/Common-Elements/Screenshot%20(40).png?raw=true)
-
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/master/challenges-and-data-structures/Challenges/Common-Elements/Screenshot%20(50).png?raw=true)
 
 ### Xunit test
 
