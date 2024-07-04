@@ -28,4 +28,4 @@
 
 
 ###  Challenge 06-B: Reverse Words
-[Reverse Words](https://github.com/Nory9/challenges-and-data-structures/tree/Common-Elements/challenges-and-data-structures/Challenges/Common-Elements)
+[Reverse Words](https://github.com/Nory9/challenges-and-data-structures/tree/master/challenges-and-data-structures/Challenges/Reverse-Words)
