@@ -6,17 +6,17 @@ namespace challenges_and_data_structures
     {
         
     
-        public static void Main(string[] args)
-        {
-            int[] a1 = { 79, 8, 15 };
-            int[] a2 = { 23, 79, 8 };
-            int[] arra = CommonElements(a1, a2);
-            foreach (int i in arra)
-            {
-                Console.WriteLine(i);
-            }
+        //public static void Main(string[] args)
+        //{
+        //    int[] a1 = { 79, 8, 15 };
+        //    int[] a2 = { 23, 79, 8 };
+        //    int[] arra = CommonElements(a1, a2);
+        //    foreach (int i in arra)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
 
-        }
+        //}
 
         public static int[] CommonElements(int[] a1, int[] a2)
         {
