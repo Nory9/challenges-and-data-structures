@@ -8,16 +8,13 @@
 
 ### Screenshot of the output
 
-![output](https://github.com/Nory9/challenges-and-data-structures/blob/Common-Elements/challenges-and-data-structures/Challenges/Common-Elements/Screenshot%20(41).png?raw=true)
-
-
+![output](https://github.com/Nory9/challenges-and-data-structures/blob/master/challenges-and-data-structures/Challenges/Reverse-Words/Screenshot%20(51).png?raw=true)
 
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Common-Elements/challenges-and-data-structures/Challenges/Common-Elements/Screenshot%20(40).png?raw=true)
-
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Words/challenges-and-data-structures/Challenges/Reverse-Words/Screenshot%20(52).png?raw=true)
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Common-Elements/CommonElements.Tests/UnitTest1.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/master/CommonElements.Tests/Reversed-words.cs)
