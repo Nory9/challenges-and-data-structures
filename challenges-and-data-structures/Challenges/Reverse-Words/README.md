@@ -13,8 +13,7 @@
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/master/challenges-and-data-structures/Challenges/Reverse-Words/Screenshot%20(48).png?raw=true)
-
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Words/challenges-and-data-structures/Challenges/Reverse-Words/Screenshot%20(52).png?raw=true)
 
 ### Xunit test
 
