@@ -6,11 +6,11 @@ namespace challenges_and_data_structures
     {
 
 
-        public static void Main(string[] args)
-        {
-            string string1 = "csharp is programming language";
-            Console.WriteLine(Reverse_Words(string1));
-        }
+        //public static void Main(string[] args)
+        //{
+        //    string string1 = "csharp is programming language";
+        //    Console.WriteLine(Reverse_Words(string1));
+        //}
 
         public static string Reverse_Words(string word)
         {
