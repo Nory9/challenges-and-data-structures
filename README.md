@@ -33,3 +33,7 @@
 
 ###  Linked List Implementation
 [Linked list](https://github.com/Nory9/challenges-and-data-structures/tree/Linked-List-Implementation/challenges-and-data-structures/DataStructures/LinkedList)
+
+
+###  Linked List Remove-Duplicates Implementation
+[Linked list](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/README%20-%20Copy.md)
