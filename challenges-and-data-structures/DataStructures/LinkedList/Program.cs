@@ -10,12 +10,15 @@ namespace challenges_and_data_structures
         public static void Main(string[] args)
         {
            linkedList linkedList = new linkedList();
-            linkedList.addFirst(111);
-            linkedList.addLast(2);
-            linkedList.addLast(555);
-            linkedList.addLast(6);
-            linkedList.removeLast();
-            linkedList.removeFirst();
+            linkedList.addFirst(20);
+            linkedList.addLast(20);
+            linkedList.addLast(20);
+            linkedList.addLast(10);
+            linkedList.addLast(5);
+            linkedList.addLast(10);     
+            linkedList.removeDuplicates();  
+          //  linkedList.removeLast();
+           // linkedList.removeFirst();
              linkedList.Print();
             Console.WriteLine(linkedList.Includes(66));
             

@@ -96,6 +96,32 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
             }
         }
 
+        //5 -> 20 -> 20 -> 10 -> 5 -> 10 -> Null
+        //                 c   in
+        // 111   2   555  6   6   6   
+        public bool removeDuplicates() {
+
+            Node current = Head;
+            while (current != null) {
+                Node index = current.Next;
+                Node prev = current;
+                while (index != null) {
+                    if (current.Data == index.Data)
+                    {
+                        prev.Next = index.Next;
+                    }
+                    else { 
+                    prev=index;
+                    }
+                 index = index.Next;
+                }
+             
+            current = current.Next;
+            }
+            return true; 
+        
+        }
+
         public void Print() { 
             Node current= Head;
             while (current != null) { 
