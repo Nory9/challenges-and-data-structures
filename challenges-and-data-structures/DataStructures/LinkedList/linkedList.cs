@@ -28,7 +28,7 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
         // head
         public bool addFirst(int num) { 
             Node newNode= new Node();
-            newNode.Data = num;
+         //   newNode.Data = num;
             newNode.Next = Head;
             Head = newNode;
             return true;
@@ -36,7 +36,8 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
 
         public bool addLast(int num) {
 
-            Node newNode= new Node();
+            Node newNode = new Node();
+            newNode.Data = num;
 
             if (Head == null)
                 Head = newNode;
@@ -47,8 +48,9 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
                     current = current.Next;
 
                 current.Next = newNode;
-                current.Next.Data = num;
+               // current.Next.Data = num;
             }
+            size++;
             return true;
         }
 
@@ -144,6 +146,63 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
 
             return false;
 
+        }
+        // 10 20 30    l1
+        // 5  15 25 35  l2
+        public void MergeSorted(linkedList l1,linkedList l2) {
+
+            if (l1.Head == null)
+            {
+                l1.Head = l2.Head;
+                return;
+            }
+            else if (l2.Head == null)
+            {
+                return;
+            }
+
+            Node dummy = new Node(); // Dummy node
+            Node tail = dummy;
+            Node current1 = l1.Head;
+            Node current2 = l2.Head;
+
+            while (current1 != null && current2 != null)
+            {
+                if (current1.Data < current2.Data)
+                {
+                    tail.Next = current1;
+                    current1 = current1.Next;
+                }
+                else
+                {
+                    tail.Next = current2;
+                    current2 = current2.Next;
+                }
+                tail = tail.Next;
+            }
+
+            if (current1 != null)
+            {
+                tail.Next = current1;
+            }
+            else
+            {
+                tail.Next = current2;
+            }
+
+            l1.Head = dummy.Next;
+        }
+
+
+        public void printList()
+        {
+            Node temp = Head;
+            while (temp != null)
+            {
+                Console.WriteLine(temp.Data + " ");
+                temp = temp.Next;
+            }
+            Console.WriteLine();
         }
     }
 }

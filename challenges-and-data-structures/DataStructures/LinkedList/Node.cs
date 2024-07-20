@@ -11,10 +11,12 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
         private int data;
         private Node next;
 
-        public Node(){
+        public Node()
+        {
             this.data = 0;
             this.next = null;
-           }
+        }
+
 
         public int Data { get; set; }
         public Node Next { get; set; }
