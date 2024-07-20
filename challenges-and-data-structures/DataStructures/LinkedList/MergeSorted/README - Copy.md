@@ -8,11 +8,11 @@ a function called MergeSorted that accepts two sorted linked lists as parameters
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/Screenshot%20(73).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/challenges-and-data-structures/DataStructures/LinkedList/MergeSorted/Screenshot%20(80).png)
 
 
 
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/CommonElements.Tests/RemoveDuplicatesTests.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/CommonElements.Tests/LinkedList-MargeSorted.cs)
