@@ -36,4 +36,8 @@
 
 
 ###  Linked List Remove-Duplicates Implementation
-[Linked list](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/README%20-%20Copy.md)
+[Linked list Remove-Duplicates](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/README%20-%20Copy.md)
+
+
+###  Linked List Merge Sorted Lists
+[Linked List Merge Sorted Lists](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/challenges-and-data-structures/DataStructures/LinkedList/MergeSorted/README%20-%20Copy.md)

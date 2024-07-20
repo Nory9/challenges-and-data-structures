@@ -1,4 +1,5 @@
 ﻿using challenges_and_data_structures.DataStructures.LinkedList;
+using System.Collections.Generic;
 using System.Xml.Linq;
 
 namespace challenges_and_data_structures
@@ -9,19 +10,19 @@ namespace challenges_and_data_structures
 
         public static void Main(string[] args)
         {
-           linkedList linkedList = new linkedList();
-            linkedList.addFirst(20);
-            linkedList.addLast(20);
-            linkedList.addLast(20);
-            linkedList.addLast(10);
-            linkedList.addLast(5);
-            linkedList.addLast(10);     
-            linkedList.removeDuplicates();  
-          //  linkedList.removeLast();
-           // linkedList.removeFirst();
-             linkedList.Print();
-            Console.WriteLine(linkedList.Includes(66));
-            
+            linkedList l1 = new linkedList();
+            l1.addLast(5);
+            l1.addLast(15);
+            l1.addLast(25);
+
+            linkedList l2 = new linkedList();
+            l2.addLast(10);
+            l2.addLast(20);
+            l2.addLast(30);
+
+            l1.MergeSorted(l1, l2);
+            l1.Print();
+
         }
 
        
