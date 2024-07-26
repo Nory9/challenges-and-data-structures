@@ -36,7 +36,6 @@ namespace CommonElements.Tests
         }
 
         [Fact]
-
         public void StackisEmptyMethod_Test01() {
 
             Stack_ stack = new Stack_();
@@ -49,7 +48,6 @@ namespace CommonElements.Tests
         }
 
         [Fact]
-
         public void StackisEmptyMethod_Test02()
         {
 
@@ -61,6 +59,57 @@ namespace CommonElements.Tests
             stack.pop();
             stack.pop();
             Assert.True(stack.isEmpty());
+
+        }
+
+
+        //QUEUE 
+
+        [Fact]
+        public void QueueEnqueuTest()
+        {
+            Queue_ queue = new Queue_();    
+            queue.enqueue(1);   
+            int expectedRes= queue.peek();
+
+            Assert.Equal(expectedRes, queue.peek());    
+
+        }
+
+        [Fact]
+        public void QueueDnqueuTest()
+        {
+            Queue_ queue = new Queue_();
+            queue.enqueue(1);
+            queue.enqueue(2);
+            int expectedRes = queue.dequeue();
+            //queue.peek();
+
+            Assert.Equal(expectedRes, queue.peek());
+
+        }
+
+        [Fact]
+        public void QueueIsEmprtTest01()
+        {
+            Queue_ queue = new Queue_();
+            queue.enqueue(1);
+            queue.enqueue(2);
+
+            Assert.False(queue.isEmpty());
+        }
+        
+        [Fact]
+        public void QueueIsEmprtTest02()
+        {
+            Queue_ queue = new Queue_();
+            queue.enqueue(1);
+            queue.enqueue(2);
+
+            queue.dequeue();
+            queue.dequeue();
+            Assert.True(queue.isEmpty());
+         
 
         }
     }
