@@ -14,7 +14,7 @@
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(87).png)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(86).png)
 
 ### Xunit test
 
@@ -32,8 +32,7 @@ A queue is a linear data structure that follows the First In, First Out (FIFO) p
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/CommonElements.Tests/StackAndQueue.cs)
-
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(87).png)
 ### Xunit test
 
 [xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(87).png)
