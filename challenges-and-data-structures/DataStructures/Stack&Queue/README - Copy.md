@@ -14,13 +14,11 @@
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/Screenshot%20(73).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(87).png)
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/CommonElements.Tests/RemoveDuplicatesTests.cs)
-
-
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/CommonElements.Tests/StackAndQueue.cs)
 ###   Queue
 #### Description:
 A queue is a linear data structure that follows the First In, First Out (FIFO) principle. Elements are added at the back and removed from the front. It supports the following operations:
@@ -34,9 +32,9 @@ A queue is a linear data structure that follows the First In, First Out (FIFO) p
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/challenges-and-data-structures/DataStructures/LinkedList/Screenshot%20(73).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/CommonElements.Tests/StackAndQueue.cs)
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Remove-Duplicates/CommonElements.Tests/RemoveDuplicatesTests.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(87).png)
 
