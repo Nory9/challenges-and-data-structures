@@ -46,3 +46,6 @@
 
 ### Stack And Queue Implementation
 [Stack And Queue](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/README%20-%20Copy.md)
+
+### Reverse Stack using Queue Implementation
+[Reverse Stack using Queue](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/challenges-and-data-structures/DataStructures/Stack%26Queue/ReverseStackUsingQueue/README%20-%20Copy.md)

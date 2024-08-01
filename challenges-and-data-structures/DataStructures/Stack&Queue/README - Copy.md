@@ -11,8 +11,8 @@ Implement a method ReverseStack that reverses the elements in a stack. The stack
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/Screenshot%20(86).png)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/challenges-and-data-structures/DataStructures/Stack&Queue/ReverseStackUsingQueue/Screenshot%20(106).png?raw=true)
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/CommonElements.Tests/StackAndQueue.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/CommonElements.Tests/StackWithReverse.cs)
