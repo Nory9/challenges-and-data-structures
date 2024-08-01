@@ -1,4 +1,5 @@
-﻿using System;
+﻿using challenges_and_data_structures.DataStructures.LinkedList;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,37 +9,24 @@ namespace challenges_and_data_structures.DataStructures.Stack_Queue
 {
     public class Stack_
     {
-        node top = null;
-        public bool push(int data)
+         public node top = null;
+        public void push(int data)
         {
             node newNode = new node(data);
-            if (top == null) { 
-            top=newNode;
-            }
-            else
-            {
-               newNode.next = top;
-                top=newNode;
-            }
-            return true;
+            newNode.next = top;
+            top = newNode;
         }
 
         public int pop() {
 
-            if (top == null)
-                return -1;
-            else
+            if (isEmpty())
             {
-                if (top.next == null) {
-                    top = null; return -1;
-                }
-                node temp=top.next;
-                top = temp;
-                
-                return temp.data;
+                throw new Exception("Stack is empty.");
             }
 
-          
+            int poppedData = top.data;
+            top = top.next;
+            return poppedData;
         }
 
         public bool isEmpty() { 
