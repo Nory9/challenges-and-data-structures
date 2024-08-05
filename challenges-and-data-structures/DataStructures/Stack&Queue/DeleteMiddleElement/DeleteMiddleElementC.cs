@@ -10,6 +10,9 @@ namespace challenges_and_data_structures.DataStructures.Stack_Queue.DeleteMiddle
     {
 
         public void DeleteMiddleE() {
+
+            if (isEmpty())
+                return;
             int n = Count()/2;
 
             Stack_ stack_ = new Stack_ ();
