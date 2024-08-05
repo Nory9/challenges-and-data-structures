@@ -1,4 +1,5 @@
 ﻿using challenges_and_data_structures.DataStructures.Stack_Queue.ReverseStackUsingQueue;
+using challenges_and_data_structures.DataStructures.Stack_Queue.DeleteMiddleElement;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,14 +12,18 @@ namespace challenges_and_data_structures.DataStructures.Stack_Queue
     {
         public static void Main(string[] args)
         {
-            StackWithReverse stack_ = new StackWithReverse();
-            stack_.push(7);
-            stack_.push(2);
-            stack_.push(3);
-            stack_.push(4);
-            stack_.push(5);
-            stack_.ReverseStack();
-            stack_.print();
+            DeleteMiddleElementC stack = new DeleteMiddleElementC();
+            stack.push(7);
+            stack.push(14);
+            stack.push(3);
+            stack.push(8);
+            stack.push(5);
+            stack.DeleteMiddleE();
+            stack.push(2);
+            stack.push(9);
+            stack.push(11);
+            stack.DeleteMiddleE();
+            stack.print();
         }
     }
 }
