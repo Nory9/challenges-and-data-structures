@@ -2,12 +2,12 @@
 
 ## Reverse Stack using Queue Implementation
 
-Implement a method ReverseStack that reverses the elerments in a stack. The stack sl reversed in-place, using a queue for intermediate storage. 
+Implement a method that deletes the middle element in a stack. The stack should remain the same except for the removal of the middle element. Handle edge cases such as empty stacks and single element stacks.
 
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/challenges-and-data-structures/DataStructures/Stack&Queue/ReverseStackUsingQueue/Screenshot%20(106).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack&Queue/DeleteMiddleElement/Screenshot%20(112).png?raw=true)
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/CommonElements.Tests/StackWithReverse.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/CommonElements.Tests/DeleteMiddleElement.cs)

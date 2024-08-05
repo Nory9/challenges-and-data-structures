@@ -49,3 +49,5 @@
 
 ### Reverse Stack using Queue Implementation
 [Reverse Stack using Queue](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/challenges-and-data-structures/DataStructures/Stack%26Queue/ReverseStackUsingQueue/README%20-%20Copy.md)
+### Delete Middle Element of a Stack Implementation
+[Delete Middle Element of a Stack](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack%26Queue/DeleteMiddleElement/README%20-%20Copy.md)
