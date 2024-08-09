@@ -56,4 +56,4 @@
 
 
 ### Find Minimum Element in a Stack Implementation
-[Find Minimum Element in a Stack](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack%26Queue/DeleteMiddleElement/README%20-%20Copy.md)
+[Find Minimum Element in a Stack](https://github.com/Nory9/challenges-and-data-structures/blob/Min-Stack/challenges-and-data-structures/DataStructures/Stack%26Queue/Min-Stack/README%20-%20Copy.md)

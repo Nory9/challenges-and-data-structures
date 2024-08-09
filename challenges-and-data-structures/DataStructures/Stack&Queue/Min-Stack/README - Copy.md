@@ -6,7 +6,8 @@ Implement a method that finds the minimum element in a stack without removing an
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack&Queue/DeleteMiddleElement/Screenshot%20(112).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Min-Stack/challenges-and-data-structures/DataStructures/Stack&Queue/Min-Stack/Screenshot%20(116).png?raw=true)
+
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/CommonElements.Tests/DeleteMiddleElement.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Min-Stack/CommonElements.Tests/MinStack.cs)
