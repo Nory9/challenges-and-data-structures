@@ -43,11 +43,17 @@
 [Linked List Merge Sorted Lists](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/challenges-and-data-structures/DataStructures/LinkedList/MergeSorted/README%20-%20Copy.md)
 
 
-
 ### Stack And Queue Implementation
 [Stack And Queue](https://github.com/Nory9/challenges-and-data-structures/blob/Stack-and-Queue-Implementation/challenges-and-data-structures/DataStructures/Stack%26Queue/README%20-%20Copy.md)
 
+
 ### Reverse Stack using Queue Implementation
 [Reverse Stack using Queue](https://github.com/Nory9/challenges-and-data-structures/blob/Reverse-Stack-Using-Queue/challenges-and-data-structures/DataStructures/Stack%26Queue/ReverseStackUsingQueue/README%20-%20Copy.md)
+
+
 ### Delete Middle Element of a Stack Implementation
 [Delete Middle Element of a Stack](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack%26Queue/DeleteMiddleElement/README%20-%20Copy.md)
+
+
+### Find Minimum Element in a Stack Implementation
+[Find Minimum Element in a Stack](https://github.com/Nory9/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/challenges-and-data-structures/DataStructures/Stack%26Queue/DeleteMiddleElement/README%20-%20Copy.md)
