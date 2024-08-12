@@ -16,15 +16,15 @@ Implement methods to traverse a binary tree in three different orders: Inorder, 
 ### WhiteBoard solutions
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Implementation/challenges-and-data-structures/DataStructures/LinkedList/Screenshot%20(66).png)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/challenges-and-data-structures/DataStructures/Tree-Implementation/Screenshot%20(121).png?raw=true)
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Implementation/challenges-and-data-structures/DataStructures/LinkedList/Screenshot%20(64).png)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/challenges-and-data-structures/DataStructures/Tree-Implementation/Screenshot%20(123).png?raw=true)
 
 
 ### Xunit tests
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Implementation/CommonElements.Tests/LinkedListTest.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/CommonElements.Tests/BST_Test.cs)
 
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Implementation/CommonElements.Tests/LinkedListTest.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/CommonElements.Tests/BT_Test.cs)
