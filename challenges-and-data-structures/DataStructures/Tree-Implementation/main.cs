@@ -1,4 +1,5 @@
 ﻿
+using challenges_and_data_structures.DataStructures.Tree_Implementation.MirrorTree;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,14 +13,19 @@ namespace challenges_and_data_structures.DataStructures.Tree_Implementation
     {
         static void Main(string[] args)
         {
-            BinaryTree bst= new BinaryTree(10);
-            bst.Insert(2);
-            bst.Insert(31);
-            bst.Insert(5);
-            bst.Insert(12);
-            bst.Insert(23);
-            bst.remove(10);
-            bst.Inorder();
+            MirrorTreeClass t = new MirrorTreeClass(5); //root
+            t.Insert(19);
+            t.Insert(3);
+            t.Insert(20);
+            t.Insert(1);
+            t.Insert(2);
+            t.Insert(4);
+            t.Insert(15);
+            t.Insert(16);
+            t.Insert(9);
+            t.Insert(10);
+            t.recverseTree();
+            t.Inorder();
         }
     }
 }
