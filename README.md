@@ -61,3 +61,7 @@
 
 ### Binary Search Tree & Binary Tree Implementation 
 [ Binary Search Tree & Binary Tree](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/challenges-and-data-structures/DataStructures/Tree-Implementation/README.md)
+
+
+### Mirror a Binary search tree Implementation 
+[ Mirror a Binary search tree](https://github.com/Nory9/challenges-and-data-structures/tree/Mirror-Tree/challenges-and-data-structures/DataStructures/Tree-Implementation/Mirror-Tree)
