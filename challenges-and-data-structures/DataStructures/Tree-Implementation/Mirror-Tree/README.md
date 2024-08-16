@@ -11,9 +11,9 @@
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/challenges-and-data-structures/DataStructures/Tree-Implementation/Screenshot%20(121).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Mirror-Tree/challenges-and-data-structures/DataStructures/Tree-Implementation/Mirror-Tree/Screenshot%20(126).png?raw=true)
 
 
 ### Xunit tests
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/CommonElements.Tests/BST_Test.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Mirror-Tree/CommonElements.Tests/MirrorTree.cs)
