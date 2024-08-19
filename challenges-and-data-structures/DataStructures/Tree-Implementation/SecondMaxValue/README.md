@@ -11,9 +11,9 @@ Implement a method to find and print the second largest value in a binary search
 ### WhiteBoard solutions
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/challenges-and-data-structures/DataStructures/Tree-Implementation/Screenshot%20(121).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Second-Max-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/SecondMaxValue/Screenshot%20(129).png)
 
 
 ### Xunit tests
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Tree-Implementation/CommonElements.Tests/BST_Test.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Second-Max-Value/CommonElements.Tests/SecondMaxValueT.cs)
