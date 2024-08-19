@@ -1,5 +1,6 @@
 ﻿
 using challenges_and_data_structures.DataStructures.Tree_Implementation.MirrorTree;
+using challenges_and_data_structures.DataStructures.Tree_Implementation.SecondMaxValue;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,19 +14,18 @@ namespace challenges_and_data_structures.DataStructures.Tree_Implementation
     {
         static void Main(string[] args)
         {
-            MirrorTreeClass t = new MirrorTreeClass(5); //root
-            t.Insert(19);
-            t.Insert(3);
-            t.Insert(20);
-            t.Insert(1);
-            t.Insert(2);
-            t.Insert(4);
-            t.Insert(15);
-            t.Insert(16);
-            t.Insert(9);
-            t.Insert(10);
-            t.recverseTree();
-            t.Inorder();
+            SecondMaxValueC max = new SecondMaxValueC(10);
+
+            max.Insert(30);
+            max.Insert(1);
+            max.Insert(28);
+            max.Insert(4);
+            max.Insert(17);
+            max.Insert(5);
+
+          max.SecondMax();
+      //    Console.WriteLine(t);
+
         }
     }
 }

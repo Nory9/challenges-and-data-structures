@@ -65,3 +65,7 @@
 
 ### Mirror a Binary search tree Implementation 
 [ Mirror a Binary search tree](https://github.com/Nory9/challenges-and-data-structures/tree/Mirror-Tree/challenges-and-data-structures/DataStructures/Tree-Implementation/Mirror-Tree)
+
+
+### Find Second Max Value in Binary Search Tree
+[ Find Second Max Value in Binary Search Tree](https://github.com/Nory9/challenges-and-data-structures/tree/Second-Max-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/SecondMaxValue)
