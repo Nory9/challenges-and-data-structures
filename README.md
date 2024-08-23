@@ -69,3 +69,6 @@
 
 ### Find Second Max Value in Binary Search Tree
 [ Find Second Max Value in Binary Search Tree](https://github.com/Nory9/challenges-and-data-structures/tree/Second-Max-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/SecondMaxValue)
+
+### Sum Of Leaf Nodes In Binary Search Tree
+[ Sum Of Leaf Nodes In Binary Search Tree](https://github.com/Nory9/challenges-and-data-structures/blob/Leaf-Sum/challenges-and-data-structures/DataStructures/Tree-Implementation/LeafSum/README.md)
