@@ -1,4 +1,5 @@
 ﻿
+using challenges_and_data_structures.DataStructures.Tree_Implementation.LeafSum;
 using challenges_and_data_structures.DataStructures.Tree_Implementation.MirrorTree;
 using challenges_and_data_structures.DataStructures.Tree_Implementation.SecondMaxValue;
 using System;
@@ -14,16 +15,17 @@ namespace challenges_and_data_structures.DataStructures.Tree_Implementation
     {
         static void Main(string[] args)
         {
-            SecondMaxValueC max = new SecondMaxValueC(10);
+            LeafNodesSum s = new LeafNodesSum(10);
+            s.Insert(9);
+            s.Insert(12);
+            s.Insert(17);
+            s.Insert(23);
+            s.Insert(6);
+            s.Insert(8);
+            s.Insert(3);
+            s.Insert(15);
+            s.SumOfLeafNodes();
 
-            max.Insert(30);
-            max.Insert(1);
-            max.Insert(28);
-            max.Insert(4);
-            max.Insert(17);
-            max.Insert(5);
-
-          max.SecondMax();
       //    Console.WriteLine(t);
 
         }
