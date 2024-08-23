@@ -11,9 +11,8 @@ Implement a method that calculates the sum of all leaf nodes in a binary tree. A
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Mirror-Tree/challenges-and-data-structures/DataStructures/Tree-Implementation/Mirror-Tree/Screenshot%20(126).png?raw=true)
-
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Leaf-Sum/challenges-and-data-structures/DataStructures/Tree-Implementation/LeafSum/Screenshot%20(139).png?raw=true)
 
 ### Xunit tests
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Mirror-Tree/CommonElements.Tests/MirrorTree.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Leaf-Sum/CommonElements.Tests/SumOfLeafNodesTest.cs)
