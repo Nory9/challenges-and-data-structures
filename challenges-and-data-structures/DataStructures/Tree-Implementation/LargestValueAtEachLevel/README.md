@@ -4,8 +4,7 @@
 
 ###  Description:
 ####  Largest Value at Each Level
-
-Implement a method that calculates the sum of all leaf nodes in a binary tree. A leaf node is defined as a node that does not have any children.
+Implement a method that finds the largest value at each level of a binary tree. The binary tree is traversed level by level, and the largest value from each level is recorded.
 ### WhiteBoard solution
 
 
