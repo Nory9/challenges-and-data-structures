@@ -8,8 +8,8 @@ Implement a method that finds the largest value at each level of a binary tree. 
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Leaf-Sum/challenges-and-data-structures/DataStructures/Tree-Implementation/LeafSum/Screenshot%20(139).png?raw=true)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Largest-Level-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/LargestValueAtEachLevel/Screenshot%20(143).png?raw=true)
 
 ### Xunit tests
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Leaf-Sum/CommonElements.Tests/SumOfLeafNodesTest.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Largest-Level-Value/CommonElements.Tests/LargestLevelValueTest.cs)
