@@ -75,3 +75,6 @@
 
 ### Largest Value in each level In Binary Search Tree
 [ Largest Value in each level In Binary Search Tree](https://github.com/Nory9/challenges-and-data-structures/tree/Largest-Level-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/LargestValueAtEachLevel)
+
+### Linked List - Rotate by K
+[ Linked List - Rotate by K](https://github.com/Nory9/challenges-and-data-structures/tree/Largest-Level-Value/challenges-and-data-structures/DataStructures/Tree-Implementation/LargestValueAtEachLevel)
