@@ -204,5 +204,34 @@ namespace challenges_and_data_structures.DataStructures.LinkedList
             }
             Console.WriteLine();
         }
+
+
+        public void RotateLinkedList(int k) {
+            if (k == 0 || Head == null)
+                return;
+
+            Node temp = Head;
+            int length = 0;
+            while (temp != null) {
+
+                temp = temp.Next;
+                length++;
+            }
+            if (k > length)
+                return;
+            for (int i = 0; i < k; i++) { 
+            
+                Node current = Head;
+                while (current.Next != null) {
+                    current = current.Next;
+                }
+
+                current.Next=Head;
+                Head = Head.Next;
+                current = current.Next;
+                current.Next = null;
+            }
+
+        }
     }
 }
