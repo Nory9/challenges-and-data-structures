@@ -9,11 +9,11 @@ We are given a singly linked list and an integer k. The task is to rotate the li
 ### WhiteBoard solution
 
 
-![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/challenges-and-data-structures/DataStructures/LinkedList/MergeSorted/Screenshot%20(80).png)
+![whiteBoard](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Rotate-K/challenges-and-data-structures/DataStructures/LinkedList/RotateLinkedList/Screenshot%20(229).png?raw=true)
 
 
 
 
 ### Xunit test
 
-[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/LinkedList-Merge-Sorted/CommonElements.Tests/LinkedList-MargeSorted.cs)
+[xunitTest](https://github.com/Nory9/challenges-and-data-structures/blob/Linked-List-Rotate-K/CommonElements.Tests/RotateLinkedListTest.cs)
