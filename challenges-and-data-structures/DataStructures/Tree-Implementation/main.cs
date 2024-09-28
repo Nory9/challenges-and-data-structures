@@ -13,21 +13,22 @@ namespace challenges_and_data_structures.DataStructures.Tree_Implementation
 {
     public class main
     {
-      //  static void Main(string[] args)
-      //  {
-      //      LeafNodesSum s = new LeafNodesSum(10);
-      //      s.Insert(9);
-      //      s.Insert(12);
-      //      s.Insert(17);
-      //      s.Insert(23);
-      //      s.Insert(6);
-      //      s.Insert(8);
-      //      s.Insert(3);
-      //      s.Insert(15);
-      //      s.SumOfLeafNodes();
+        static void Main(string[] args)
+        {
+            RightView tree = new RightView(2);
+            tree.Insert(3);
+            tree.Insert(4);
+            tree.Insert(5);
+            tree.Insert(-1);
+            tree.Insert(1);
 
-      ////    Console.WriteLine(t);
+            List<int> res= tree.FindRight();
+            foreach(int i in res)
+                Console.WriteLine(i);
 
-      //  }
+
+            //    Console.WriteLine(t);
+
+        }
     }
 }
