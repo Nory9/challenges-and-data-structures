@@ -24,11 +24,11 @@ namespace challenges_and_data_structures.DataStructures.Tree_Implementation
             if (root == null)
                 return;
 
-            if (level == RightNodes.Count)
+            if (RightNodes.Count == level)
                 RightNodes.Add(root.value);
 
-            FindRight(ref RightNodes,root.Right, level+1);
-            FindRight(ref RightNodes, root.Left, level+1);
+            FindRight(ref RightNodes, root.Right, level + 1);
+            FindRight(ref RightNodes, root.Left, level + 1);
 
 
         }
